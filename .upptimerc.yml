@@ -16,6 +16,12 @@ sites:
     port: 443
     maxResponseTime: 5000
     __dangerous__insecure: true
+    - name: KMHARS Makati Datacenter and Facebook Caching
+    check: "tcp-ping"
+    url: 103.190.139.186
+    port: 53
+    maxResponseTime: 5000
+    __dangerous__insecure: true
   - name: KMHARS Website
     url: https://kmhars.com
   - name: KMHARS Speedtest Server
