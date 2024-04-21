@@ -30,8 +30,6 @@ sites:
     port: 8080
     maxResponseTime: 5000
     __dangerous__insecure: true
-  - name: Facebook
-    url: https://facebook.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
