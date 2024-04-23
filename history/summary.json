@@ -4,19 +4,19 @@
     "url": "hfj094ec6hm.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-internet",
-    "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
-    "time": 244,
-    "timeDay": 265,
-    "timeWeek": 244,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "96.28%",
+    "uptimeDay": "89.66%",
+    "uptimeWeek": "96.28%",
+    "uptimeMonth": "96.28%",
+    "uptimeYear": "96.28%",
+    "time": 241,
+    "timeDay": 245,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-04-23": 32
+      "2024-04-23": 149
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "103.190.139.186",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-facebook-cache",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 658,
-    "timeDay": 868,
-    "timeWeek": 658,
-    "timeMonth": 658,
-    "timeYear": 658,
+    "status": "up",
+    "uptime": "95.22%",
+    "uptimeDay": "91.76%",
+    "uptimeWeek": "95.22%",
+    "uptimeMonth": "95.22%",
+    "uptimeYear": "95.22%",
+    "time": 508,
+    "timeDay": 538,
+    "timeWeek": 508,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2024-04-23": 1
+      "2024-04-23": 119
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "kmhars.ookla.databyte-network.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-speedtest-server-marawi-main-fiber",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 259,
-    "timeWeek": 255,
-    "timeMonth": 255,
-    "timeYear": 255,
+    "status": "up",
+    "uptime": "95.27%",
+    "uptimeDay": "91.84%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "95.27%",
+    "time": 239,
+    "timeDay": 233,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2024-04-23": 0
+      "2024-04-23": 117
     }
   }
 ]
