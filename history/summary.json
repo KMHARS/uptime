@@ -4,9 +4,9 @@
     "url": "hfj094ec6hm.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "96.28%",
-    "uptimeDay": "89.66%",
+    "uptimeDay": "89.48%",
     "uptimeWeek": "96.28%",
     "uptimeMonth": "96.28%",
     "uptimeYear": "96.28%",
@@ -16,7 +16,7 @@
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-04-23": 149
+      "2024-04-23": 152
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "103.190.139.186",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-facebook-cache",
-    "status": "up",
-    "uptime": "95.22%",
-    "uptimeDay": "91.76%",
-    "uptimeWeek": "95.22%",
-    "uptimeMonth": "95.22%",
-    "uptimeYear": "95.22%",
+    "status": "down",
+    "uptime": "95.30%",
+    "uptimeDay": "91.66%",
+    "uptimeWeek": "95.30%",
+    "uptimeMonth": "95.30%",
+    "uptimeYear": "95.30%",
     "time": 508,
     "timeDay": 538,
     "timeWeek": 508,
     "timeMonth": 508,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2024-04-23": 119
+      "2024-04-23": 120
     }
   },
   {
@@ -80,12 +80,12 @@
     "url": "kmhars.ookla.databyte-network.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-speedtest-server-marawi-main-fiber",
-    "status": "up",
-    "uptime": "95.27%",
+    "status": "down",
+    "uptime": "95.40%",
     "uptimeDay": "91.84%",
-    "uptimeWeek": "95.27%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "95.27%",
+    "uptimeWeek": "95.40%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "95.40%",
     "time": 239,
     "timeDay": 233,
     "timeWeek": 239,
