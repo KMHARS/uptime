@@ -34,8 +34,6 @@ sites:
     url: https://google.com
   - name: Facebook
     url: https://facebook.com
-  - name: Globe
-    url: https://new.globe.com.ph/
   - name: Smart
     url: https://smart.com.ph
   - name: PLDT
