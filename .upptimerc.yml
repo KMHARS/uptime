@@ -30,6 +30,20 @@ sites:
     port: 8080
     #maxResponseTime: 5000
     __dangerous__insecure: true
+  - name: Google
+    url: https://google.com
+  - name: Facebook
+    url: https://facebook.com
+  - name: Globe
+    url: https://globe.com.ph
+  - name: Smart
+    url: https://smart.com.ph
+  - name: PLDT
+    url: https://pldthome.com
+  - name: Mobile Legends
+    url: https://m.mobilelegends.com
+  - name: PUBG
+    url: https://pubg.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
