@@ -36,6 +36,7 @@ sites:
     url: https://facebook.com
   - name: Globe
     url: https://globe.com.ph
+    maxResponseTime: 5000
   - name: Smart
     url: https://smart.com.ph
   - name: PLDT
