@@ -8,19 +8,19 @@ sites:
     check: "tcp-ping"
     url: hfj094ec6hm.sn.mynetname.net
     port: 443
-    maxResponseTime: 5000
+    #maxResponseTime: 5000
     __dangerous__insecure: true
   - name: KMHARS Backup Internet
     check: "tcp-ping"
     url: hdh08hzryd0.sn.mynetname.net
     port: 443
-    maxResponseTime: 5000
+    #maxResponseTime: 5000
     __dangerous__insecure: true
   - name: KMHARS Makati Datacenter / Facebook Cache
     check: "tcp-ping"
     url: 103.190.139.186
     port: 53
-    maxResponseTime: 5000
+    #maxResponseTime: 5000
     __dangerous__insecure: true
   - name: KMHARS Website
     url: https://kmhars.com
@@ -28,7 +28,7 @@ sites:
     check: "tcp-ping"
     url: kmhars.ookla.databyte-network.com
     port: 8080
-    maxResponseTime: 5000
+    #maxResponseTime: 5000
     __dangerous__insecure: true
 
 status-website:
