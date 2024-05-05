@@ -19,7 +19,7 @@ sites:
   - name: KMHARS Makati Datacenter / Facebook Cache
     check: "tcp-ping"
     url: 103.190.139.4
-    port: 53
+    port: 179
     #maxResponseTime: 5000
     __dangerous__insecure: true
   - name: KMHARS Website
