@@ -34,6 +34,10 @@ sites:
     url: https://google.com
   - name: Facebook
     url: https://facebook.com
+  - name: Globe
+    check: "tcp-ping"
+    url: https://globe.com.ph
+    port: 80
   - name: Smart
     url: https://smart.com.ph
   - name: PLDT
