@@ -6,8 +6,8 @@ repo: uptime # The name of this repository
 sites:
   - name: KMHARS Main Internet
     check: "tcp-ping"
-    url: hfj094ec6hm.sn.mynetname.net
-    port: 443
+    url: 103.190.139.186
+    port: 53
     #maxResponseTime: 5000
     __dangerous__insecure: true
   - name: KMHARS Backup Internet
@@ -18,7 +18,7 @@ sites:
     __dangerous__insecure: true
   - name: KMHARS Makati Datacenter / Facebook Cache
     check: "tcp-ping"
-    url: 103.190.139.186
+    url: 103.190.139.4
     port: 53
     #maxResponseTime: 5000
     __dangerous__insecure: true
