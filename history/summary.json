@@ -183,19 +183,19 @@
     "url": "https://pldthome.com",
     "icon": "https://icons.duckduckgo.com/ip3/pldthome.com.ico",
     "slug": "pldt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2831,
-    "timeDay": 1691,
-    "timeWeek": 2831,
-    "timeMonth": 2831,
-    "timeYear": 2831,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 3102,
+    "timeDay": 3605,
+    "timeWeek": 3102,
+    "timeMonth": 3102,
+    "timeYear": 3102,
     "dailyMinutesDown": {
-      "2024-05-10": 0
+      "2024-05-10": 13
     }
   },
   {
