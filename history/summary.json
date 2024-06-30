@@ -66,7 +66,7 @@
     "timeMonth": 0,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-06-30": 98,
+      "2024-06-30": 113,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -164,11 +164,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-speedtest-server-marawi-main-fiber",
     "status": "up",
-    "uptime": "62.35%",
+    "uptime": "62.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "64.64%",
-    "uptimeMonth": "33.89%",
-    "uptimeYear": "62.35%",
+    "uptimeMonth": "33.93%",
+    "uptimeYear": "62.36%",
     "time": 284,
     "timeDay": 246,
     "timeWeek": 256,
@@ -254,9 +254,9 @@
     "url": "https://globe.com.ph",
     "icon": "https://icons.duckduckgo.com/ip3/globe.com.ph.ico",
     "slug": "globe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -266,6 +266,7 @@
     "timeMonth": 31,
     "timeYear": 97,
     "dailyMinutesDown": {
+      "2024-06-30": 0,
       "2024-05-04": 22
     }
   },
