@@ -4,16 +4,28 @@ owner: KMHARS # Your GitHub organization or username, where this repository live
 repo: uptime # The name of this repository
 
 sites:
-  - name: KMHARS Main Internet
+  - name: KMHARS Main Fiber Line
     check: "tcp-ping"
-    url: 103.190.139.186
-    port: 53
+    url: het09022amj.sn.mynetname.net
+    port: 80
     #maxResponseTime: 5000
     __dangerous__insecure: true
-  - name: KMHARS Backup Internet
+  - name: KMHARS Main Internet (D)
+    check: "tcp-ping"
+    url: hf60936b8q0.sn.mynetname.net
+    port: 80
+    #maxResponseTime: 5000
+    __dangerous__insecure: true
+  - name: KMHARS Backup Internet (G)
     check: "tcp-ping"
     url: hdh08hzryd0.sn.mynetname.net
-    port: 443
+    port: 80
+    #maxResponseTime: 5000
+    __dangerous__insecure: true
+  - name: KMHARS Backup Internet 2 (P)
+    check: "tcp-ping"
+    url: hfj094ec6hm.sn.mynetname.net
+    port: 80
     #maxResponseTime: 5000
     __dangerous__insecure: true
   - name: KMHARS Makati Datacenter / Facebook Cache
@@ -24,7 +36,7 @@ sites:
     __dangerous__insecure: true
   - name: KMHARS Website
     url: https://kmhars.com
-  - name: KMHARS Speedtest Server / Marawi Main Fiber
+  - name: KMHARS Speedtest Server
     check: "tcp-ping"
     url: kmhars.ookla.databyte-network.com
     port: 8080
