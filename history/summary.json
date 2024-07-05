@@ -4,19 +4,19 @@
     "url": "het09022amj.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-fiber-line",
-    "status": "up",
-    "uptime": "96.32%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "96.32%",
-    "uptimeYear": "96.32%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 250,
     "timeDay": 250,
     "timeWeek": 250,
     "timeMonth": 250,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-07-05": 11
+      "2024-07-05": 2
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "hf60936b8q0.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-internet-d",
-    "status": "up",
-    "uptime": "96.73%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "96.73%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 245,
     "timeDay": 245,
     "timeWeek": 245,
     "timeMonth": 245,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2024-07-05": 10
+      "2024-07-05": 1
     }
   },
   {
@@ -134,19 +134,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-speedtest-server",
     "status": "up",
-    "uptime": "97.14%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "97.14%",
-    "uptimeMonth": "97.14%",
-    "uptimeYear": "97.14%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 242,
     "timeDay": 256,
     "timeWeek": 256,
     "timeMonth": 256,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2024-07-05": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -190,18 +188,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/globe.com.ph.ico",
     "slug": "globe",
     "status": "down",
-    "uptime": "90.82%",
+    "uptime": "90.65%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "19.61%",
-    "uptimeMonth": "81.50%",
-    "uptimeYear": "90.82%",
+    "uptimeWeek": "17.97%",
+    "uptimeMonth": "81.12%",
+    "uptimeYear": "90.65%",
     "time": 97,
     "timeDay": 0,
     "timeWeek": 15,
     "timeMonth": 29,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-07-05": 1016,
+      "2024-07-05": 1181,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
@@ -241,7 +239,7 @@
     "uptimeYear": "99.60%",
     "time": 2899,
     "timeDay": 2827,
-    "timeWeek": 3555,
+    "timeWeek": 3632,
     "timeMonth": 3205,
     "timeYear": 2899,
     "dailyMinutesDown": {
