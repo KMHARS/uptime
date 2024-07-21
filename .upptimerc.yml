@@ -48,7 +48,7 @@ sites:
     url: https://facebook.com
   - name: Globe
     check: "tcp-ping"
-    url: https://new.globe.com.ph
+    url: https://globe.com.ph
     port: 443
   - name: Smart
     url: https://smart.com.ph
