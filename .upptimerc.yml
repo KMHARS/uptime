@@ -47,7 +47,9 @@ sites:
   - name: Facebook
     url: https://facebook.com
   - name: Globe
+    check: "tcp-ping"
     url: https://new.globe.com.ph
+    port: 443
   - name: Smart
     url: https://smart.com.ph
   - name: PLDT
