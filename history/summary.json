@@ -8,7 +8,7 @@
     "uptime": "82.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.78%",
+    "uptimeMonth": "21.75%",
     "uptimeYear": "82.45%",
     "time": 311,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 266,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-02-25": 816,
+      "2025-02-25": 829,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -187,7 +187,7 @@
     "timeMonth": 0,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2025-02-25": 816,
+      "2025-02-25": 829,
       "2025-02-24": 1423,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -296,7 +296,7 @@
     "uptime": "66.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.68%",
+    "uptimeMonth": "81.71%",
     "uptimeYear": "66.53%",
     "time": 296,
     "timeDay": 205,
@@ -489,7 +489,7 @@
     "timeMonth": 0,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-02-25": 816,
+      "2025-02-25": 829,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -794,11 +794,11 @@
     "url": "https://pldthome.com",
     "icon": "https://icons.duckduckgo.com/ip3/pldthome.com.ico",
     "slug": "pldt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "90.63%",
+    "uptimeDay": "90.60%",
     "uptimeWeek": "87.08%",
-    "uptimeMonth": "91.39%",
+    "uptimeMonth": "91.43%",
     "uptimeYear": "99.12%",
     "time": 5949,
     "timeDay": 9034,
@@ -827,7 +827,7 @@
       "2025-02-07": 310,
       "2025-02-06": 87,
       "2025-02-05": 145,
-      "2025-02-04": 50
+      "2025-02-04": 29
     }
   },
   {
