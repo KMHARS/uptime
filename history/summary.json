@@ -16,7 +16,7 @@
     "timeMonth": 218,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-03-06": 1287,
+      "2025-03-06": 1301,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 970,
@@ -186,7 +186,7 @@
     "slug": "kmhars-backup-internet-g",
     "status": "down",
     "uptime": "75.81%",
-    "uptimeDay": "66.25%",
+    "uptimeDay": "65.28%",
     "uptimeWeek": "18.30%",
     "uptimeMonth": "12.31%",
     "uptimeYear": "75.81%",
@@ -196,7 +196,7 @@
     "timeMonth": 204,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-03-06": 486,
+      "2025-03-06": 500,
       "2025-03-05": 509,
       "2025-03-04": 1440,
       "2025-03-03": 1407,
@@ -313,7 +313,7 @@
     "slug": "kmhars-makati-datacenter-facebook-cache",
     "status": "up",
     "uptime": "67.10%",
-    "uptimeDay": "70.90%",
+    "uptimeDay": "71.87%",
     "uptimeWeek": "84.26%",
     "uptimeMonth": "95.48%",
     "uptimeYear": "67.10%",
@@ -512,7 +512,7 @@
     "timeMonth": 0,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-03-06": 1287,
+      "2025-03-06": 1301,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
@@ -827,15 +827,15 @@
     "url": "https://pldthome.com",
     "icon": "https://icons.duckduckgo.com/ip3/pldthome.com.ico",
     "slug": "pldt",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "81.32%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "81.29%",
     "uptimeWeek": "88.79%",
-    "uptimeMonth": "92.45%",
-    "uptimeYear": "99.25%",
+    "uptimeMonth": "92.51%",
+    "uptimeYear": "99.26%",
     "time": 6044,
     "timeDay": 7472,
-    "timeWeek": 6983,
+    "timeWeek": 6941,
     "timeMonth": 7376,
     "timeYear": 6044,
     "dailyMinutesDown": {
@@ -859,7 +859,7 @@
       "2025-02-17": 113,
       "2025-02-16": 167,
       "2025-02-15": 22,
-      "2025-02-14": 103
+      "2025-02-14": 77
     }
   },
   {
