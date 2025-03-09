@@ -16,7 +16,7 @@
     "timeMonth": 218,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-03-09": 657,
+      "2025-03-09": 676,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -199,7 +199,7 @@
     "timeMonth": 204,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-03-09": 657,
+      "2025-03-09": 676,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 639,
@@ -317,11 +317,11 @@
     "url": "103.190.139.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-facebook-cache",
-    "status": "down",
+    "status": "up",
     "uptime": "67.36%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "84.24%",
-    "uptimeMonth": "95.51%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "84.08%",
+    "uptimeMonth": "95.47%",
     "uptimeYear": "67.36%",
     "time": 294,
     "timeDay": 0,
@@ -329,7 +329,7 @@
     "timeMonth": 266,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2025-03-09": 2,
+      "2025-03-09": 18,
       "2025-03-06": 266,
       "2025-03-05": 1321,
       "2025-02-27": 123,
@@ -519,7 +519,7 @@
     "timeMonth": 0,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-03-09": 657,
+      "2025-03-09": 676,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -839,17 +839,17 @@
     "slug": "pldt",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "91.65%",
-    "uptimeWeek": "89.44%",
-    "uptimeMonth": "92.37%",
+    "uptimeDay": "93.74%",
+    "uptimeWeek": "89.56%",
+    "uptimeMonth": "92.34%",
     "uptimeYear": "99.25%",
     "time": 6076,
     "timeDay": 7667,
     "timeWeek": 7576,
-    "timeMonth": 7375,
+    "timeMonth": 7363,
     "timeYear": 6076,
     "dailyMinutesDown": {
-      "2025-03-09": 77,
+      "2025-03-09": 65,
       "2025-03-08": 121,
       "2025-03-07": 153,
       "2025-03-06": 220,
@@ -869,7 +869,7 @@
       "2025-02-20": 139,
       "2025-02-19": 47,
       "2025-02-18": 153,
-      "2025-02-17": 89
+      "2025-02-17": 113
     }
   },
   {
