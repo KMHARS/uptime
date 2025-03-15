@@ -16,7 +16,7 @@
     "timeMonth": 218,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-03-15": 1372,
+      "2025-03-15": 1392,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -195,7 +195,7 @@
     "slug": "kmhars-backup-internet-g",
     "status": "down",
     "uptime": "74.31%",
-    "uptimeDay": "25.48%",
+    "uptimeDay": "24.10%",
     "uptimeWeek": "43.86%",
     "uptimeMonth": "22.33%",
     "uptimeYear": "74.31%",
@@ -205,7 +205,7 @@
     "timeMonth": 236,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-03-15": 1074,
+      "2025-03-15": 1093,
       "2025-03-12": 198,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -327,11 +327,11 @@
     "url": "103.190.139.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-facebook-cache",
-    "status": "up",
+    "status": "down",
     "uptime": "67.99%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "95.33%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "95.32%",
     "uptimeYear": "67.99%",
     "time": 294,
     "timeDay": 0,
@@ -339,7 +339,7 @@
     "timeMonth": 259,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2025-03-15": 36,
+      "2025-03-15": 38,
       "2025-03-11": 30,
       "2025-03-09": 18,
       "2025-03-06": 266,
@@ -531,7 +531,7 @@
     "timeMonth": 0,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-03-15": 1372,
+      "2025-03-15": 1392,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -857,9 +857,9 @@
     "slug": "pldt",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "88.39%",
-    "uptimeMonth": "93.07%",
+    "uptimeDay": "91.97%",
+    "uptimeWeek": "88.51%",
+    "uptimeMonth": "93.02%",
     "uptimeYear": "99.33%",
     "time": 6123,
     "timeDay": 7339,
@@ -867,7 +867,7 @@
     "timeMonth": 7348,
     "timeYear": 6123,
     "dailyMinutesDown": {
-      "2025-03-15": 129,
+      "2025-03-15": 117,
       "2025-03-14": 177,
       "2025-03-13": 121,
       "2025-03-12": 117,
@@ -885,7 +885,7 @@
       "2025-02-28": 154,
       "2025-02-27": 201,
       "2025-02-26": 97,
-      "2025-02-25": 162
+      "2025-02-25": 197
     }
   },
   {
