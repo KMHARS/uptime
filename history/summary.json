@@ -16,7 +16,7 @@
     "timeMonth": 218,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-03-16": 556,
+      "2025-03-16": 574,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -206,7 +206,7 @@
     "timeMonth": 236,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-03-16": 556,
+      "2025-03-16": 574,
       "2025-03-15": 1141,
       "2025-03-12": 198,
       "2025-03-11": 1440,
@@ -331,7 +331,7 @@
     "slug": "kmhars-makati-datacenter-facebook-cache",
     "status": "up",
     "uptime": "68.03%",
-    "uptimeDay": "97.55%",
+    "uptimeDay": "98.64%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "95.33%",
     "uptimeYear": "68.03%",
@@ -533,7 +533,7 @@
     "timeMonth": 0,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-03-16": 556,
+      "2025-03-16": 574,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
@@ -858,16 +858,16 @@
     "url": "https://pldthome.com",
     "icon": "https://icons.duckduckgo.com/ip3/pldthome.com.ico",
     "slug": "pldt",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "91.52%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "91.50%",
     "uptimeWeek": "88.79%",
-    "uptimeMonth": "93.06%",
-    "uptimeYear": "99.33%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "99.35%",
     "time": 6126,
     "timeDay": 6756,
     "timeWeek": 7091,
-    "timeMonth": 7326,
+    "timeMonth": 7329,
     "timeYear": 6126,
     "dailyMinutesDown": {
       "2025-03-16": 37,
@@ -889,7 +889,7 @@
       "2025-02-28": 154,
       "2025-02-27": 201,
       "2025-02-26": 97,
-      "2025-02-25": 143
+      "2025-02-25": 77
     }
   },
   {
