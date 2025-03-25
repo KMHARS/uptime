@@ -1,7 +1,7 @@
 url: https://facebook.com
-status: up
-code: 200
-responseTime: 987
-lastUpdated: 2025-03-25T14:05:05.708Z
+status: down
+code: 500
+responseTime: 1371
+lastUpdated: 2025-03-25T15:03:25.617Z
 startTime: 2024-05-04T14:38:43.266Z
 generator: Upptime <https://github.com/upptime/upptime>
