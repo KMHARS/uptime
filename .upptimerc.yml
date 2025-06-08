@@ -36,12 +36,12 @@ sites:
     __dangerous__insecure: true
   - name: KMHARS Website
     url: https://kmhars.com
-  - name: KMHARS Speedtest Server
-    check: "tcp-ping"
-    url: kmhars.ookla.databyte-network.com
-    port: 8080
+  #- name: KMHARS Speedtest Server
+  #  check: "tcp-ping"
+  #  url: kmhars.ookla.databyte-network.com
+  #  port: 8080
     #maxResponseTime: 5000
-    __dangerous__insecure: true
+  #  __dangerous__insecure: true
   - name: Google
     url: https://google.com
   - name: Facebook
