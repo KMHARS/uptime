@@ -6,7 +6,7 @@ repo: uptime # The name of this repository
 sites:
   - name: KMHARS Main Fiber Line
     check: "tcp-ping"
-    url: het09022amj.sn.mynetname.net
+    url: het094b3j1k.sn.mynetname.net
     port: 80
     #maxResponseTime: 5000
     __dangerous__insecure: true
