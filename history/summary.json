@@ -269,19 +269,19 @@
     "url": "hdh08hzryd0.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-backup-internet-g",
-    "status": "down",
+    "status": "up",
     "uptime": "77.76%",
-    "uptimeDay": "63.95%",
-    "uptimeWeek": "64.06%",
-    "uptimeMonth": "39.81%",
+    "uptimeDay": "63.76%",
+    "uptimeWeek": "63.69%",
+    "uptimeMonth": "39.73%",
     "uptimeYear": "77.55%",
     "time": 546,
     "timeDay": 0,
     "timeWeek": 262,
     "timeMonth": 252,
-    "timeYear": 540,
+    "timeYear": 537,
     "dailyMinutesDown": {
-      "2025-07-08": 456,
+      "2025-07-08": 494,
       "2025-07-07": 733,
       "2025-07-06": 536,
       "2025-07-05": 675,
@@ -583,7 +583,7 @@
     "timeDay": 1691,
     "timeWeek": 1780,
     "timeMonth": 1728,
-    "timeYear": 2030,
+    "timeYear": 2032,
     "dailyMinutesDown": {
       "2025-06-25": 46,
       "2025-06-23": 18,
@@ -640,7 +640,7 @@
     "timeDay": 612,
     "timeWeek": 579,
     "timeMonth": 660,
-    "timeYear": 653,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2025-06-29": 25,
       "2025-03-25": 57
@@ -656,7 +656,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.88%",
+    "uptimeYear": "95.89%",
     "time": 1173,
     "timeDay": 2083,
     "timeWeek": 1531,
@@ -716,7 +716,7 @@
     "timeDay": 628,
     "timeWeek": 572,
     "timeMonth": 617,
-    "timeYear": 997,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2024-08-05": 32
     }
@@ -735,8 +735,8 @@
     "time": 6153,
     "timeDay": 1925,
     "timeWeek": 2255,
-    "timeMonth": 2468,
-    "timeYear": 6368,
+    "timeMonth": 2487,
+    "timeYear": 6371,
     "dailyMinutesDown": {
       "2025-07-02": 31,
       "2025-06-20": 19,
@@ -784,8 +784,8 @@
     "time": 668,
     "timeDay": 484,
     "timeWeek": 582,
-    "timeMonth": 616,
-    "timeYear": 661,
+    "timeMonth": 629,
+    "timeYear": 660,
     "dailyMinutesDown": {}
   },
   {
@@ -802,7 +802,7 @@
     "time": 406,
     "timeDay": 361,
     "timeWeek": 298,
-    "timeMonth": 515,
+    "timeMonth": 522,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2025-05-09": 98,
