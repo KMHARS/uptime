@@ -270,18 +270,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-backup-internet-g",
     "status": "down",
-    "uptime": "93.25%",
-    "uptimeDay": "63.86%",
-    "uptimeWeek": "58.24%",
-    "uptimeMonth": "38.47%",
-    "uptimeYear": "93.17%",
+    "uptime": "93.23%",
+    "uptimeDay": "54.31%",
+    "uptimeWeek": "56.88%",
+    "uptimeMonth": "38.16%",
+    "uptimeYear": "93.14%",
     "time": 546,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 258,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-07-09": 520,
+      "2025-07-10": 130,
+      "2025-07-09": 527,
       "2025-07-08": 523,
       "2025-07-07": 733,
       "2025-07-06": 536,
@@ -355,7 +356,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-makati-datacenter-facebook-cache",
     "status": "up",
-    "uptime": "76.23%",
+    "uptime": "76.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -504,8 +505,7 @@
       "2024-09-08": 17,
       "2024-09-05": 42,
       "2024-07-22": 22,
-      "2024-07-13": 19,
-      "2024-07-10": 297
+      "2024-07-13": 19
     }
   },
   {
@@ -596,7 +596,7 @@
     "uptimeDay": "91.57%",
     "uptimeWeek": "98.80%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "96.15%",
+    "uptimeYear": "96.17%",
     "time": 1171,
     "timeDay": 833,
     "timeWeek": 1263,
@@ -637,8 +637,7 @@
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
-      "2024-07-11": 1440,
-      "2024-07-10": 1440
+      "2024-07-11": 1440
     }
   },
   {
