@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-fiber-line",
     "status": "up",
-    "uptime": "70.31%",
+    "uptime": "70.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.75%",
-    "uptimeMonth": "91.34%",
+    "uptimeWeek": "92.16%",
+    "uptimeMonth": "91.43%",
     "uptimeYear": "69.78%",
     "time": 319,
     "timeDay": 212,
@@ -167,8 +167,7 @@
       "2024-07-25": 26,
       "2024-07-20": 20,
       "2024-07-17": 15,
-      "2024-07-13": 19,
-      "2024-07-12": 24
+      "2024-07-13": 19
     }
   },
   {
@@ -179,7 +178,7 @@
     "status": "up",
     "uptime": "90.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.73%",
+    "uptimeWeek": "95.13%",
     "uptimeMonth": "93.23%",
     "uptimeYear": "90.47%",
     "time": 286,
@@ -260,8 +259,7 @@
       "2024-09-05": 22,
       "2024-09-03": 144,
       "2024-09-02": 68,
-      "2024-07-25": 25,
-      "2024-07-12": 23
+      "2024-07-25": 25
     }
   },
   {
@@ -270,18 +268,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-backup-internet-g",
     "status": "down",
-    "uptime": "99.09%",
+    "uptime": "99.07%",
     "uptimeDay": "58.57%",
-    "uptimeWeek": "57.59%",
-    "uptimeMonth": "88.92%",
-    "uptimeYear": "99.08%",
+    "uptimeWeek": "56.28%",
+    "uptimeMonth": "88.60%",
+    "uptimeYear": "99.05%",
     "time": 546,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 269,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2025-07-11": 594,
+      "2025-07-12": 140,
+      "2025-07-11": 597,
       "2025-07-10": 686,
       "2025-07-09": 527,
       "2025-07-08": 523,
@@ -571,7 +570,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.80%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "96.69%",
+    "uptimeYear": "96.72%",
     "time": 1173,
     "timeDay": 2334,
     "timeWeek": 1305,
@@ -610,8 +609,7 @@
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
-      "2024-07-13": 1440,
-      "2024-07-12": 1440
+      "2024-07-13": 1440
     }
   },
   {
