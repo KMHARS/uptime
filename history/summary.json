@@ -16,7 +16,7 @@
     "timeMonth": 248,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2025-10-03": 1037,
+      "2025-10-03": 1054,
       "2025-10-02": 903,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -324,13 +324,13 @@
     "url": "hdh08hzryd0.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-backup-internet-g",
-    "status": "up",
+    "status": "down",
     "uptime": "82.10%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "1.16%",
     "uptimeWeek": "26.43%",
-    "uptimeMonth": "18.22%",
+    "uptimeMonth": "18.26%",
     "uptimeYear": "77.68%",
-    "time": 530,
+    "time": 531,
     "timeDay": 0,
     "timeWeek": 894,
     "timeMonth": 617,
@@ -423,7 +423,7 @@
       "2025-07-07": 733,
       "2025-07-06": 536,
       "2025-07-05": 675,
-      "2025-07-04": 231
+      "2025-07-04": 212
     }
   },
   {
@@ -707,7 +707,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfiberprepaid.globe.com.ph.ico",
     "slug": "globe",
     "status": "up",
-    "uptime": "95.33%",
+    "uptime": "95.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
