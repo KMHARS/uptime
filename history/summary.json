@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-fiber-line",
     "status": "down",
-    "uptime": "60.43%",
+    "uptime": "60.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "5.33%",
     "uptimeMonth": "2.61%",
-    "uptimeYear": "50.54%",
+    "uptimeYear": "50.51%",
     "time": 323,
     "timeDay": 0,
     "timeWeek": 248,
     "timeMonth": 248,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-10-06": 1400,
+      "2025-10-07": 113,
+      "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -325,18 +326,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-backup-internet-g",
     "status": "down",
-    "uptime": "81.63%",
+    "uptime": "81.61%",
     "uptimeDay": "6.30%",
     "uptimeWeek": "2.39%",
     "uptimeMonth": "18.77%",
-    "uptimeYear": "76.93%",
+    "uptimeYear": "76.90%",
     "time": 511,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 617,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2025-10-06": 1310,
+      "2025-10-07": 113,
+      "2025-10-06": 1349,
       "2025-10-05": 1409,
       "2025-10-04": 1338,
       "2025-10-03": 1423,
@@ -613,8 +615,7 @@
       "2024-10-17": 379,
       "2024-10-16": 144,
       "2024-10-15": 41,
-      "2024-10-11": 58,
-      "2024-10-07": 23
+      "2024-10-11": 58
     }
   },
   {
@@ -709,7 +710,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gfiberprepaid.globe.com.ph.ico",
     "slug": "globe",
     "status": "up",
-    "uptime": "95.36%",
+    "uptime": "95.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -735,8 +736,7 @@
       "2024-11-04": 560,
       "2024-10-24": 189,
       "2024-10-17": 177,
-      "2024-10-10": 166,
-      "2024-10-07": 195
+      "2024-10-10": 166
     }
   },
   {
