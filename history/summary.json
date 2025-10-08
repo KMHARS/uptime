@@ -16,7 +16,7 @@
     "timeMonth": 248,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-10-08": 1032,
+      "2025-10-08": 1054,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
@@ -326,11 +326,11 @@
     "url": "hdh08hzryd0.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-backup-internet-g",
-    "status": "up",
+    "status": "down",
     "uptime": "81.37%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "3.07%",
-    "uptimeMonth": "18.93%",
+    "uptimeDay": "1.47%",
+    "uptimeWeek": "3.28%",
+    "uptimeMonth": "18.97%",
     "uptimeYear": "76.51%",
     "time": 546,
     "timeDay": 0,
@@ -429,7 +429,7 @@
       "2025-07-08": 523,
       "2025-07-07": 733,
       "2025-07-06": 536,
-      "2025-07-05": 154
+      "2025-07-05": 130
     }
   },
   {
