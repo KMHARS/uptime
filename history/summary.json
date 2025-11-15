@@ -320,14 +320,14 @@
     "url": "hdh08hzryd0.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-backup-internet-g",
-    "status": "up",
-    "uptime": "94.02%",
-    "uptimeDay": "44.87%",
+    "status": "down",
+    "uptime": "94.04%",
+    "uptimeDay": "45.44%",
     "uptimeWeek": "64.75%",
     "uptimeMonth": "27.47%",
-    "uptimeYear": "91.85%",
+    "uptimeYear": "91.87%",
     "time": 440,
-    "timeDay": 240,
+    "timeDay": 241,
     "timeWeek": 236,
     "timeMonth": 239,
     "timeYear": 257,
@@ -370,7 +370,7 @@
       "2025-10-10": 1440,
       "2025-10-09": 1393,
       "2025-10-08": 1384,
-      "2025-10-07": 871
+      "2025-10-07": 766
     }
   },
   {
@@ -420,7 +420,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.39%",
+    "uptimeYear": "78.40%",
     "time": 257,
     "timeDay": 247,
     "timeWeek": 251,
