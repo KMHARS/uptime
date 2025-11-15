@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-fiber-line",
     "status": "up",
-    "uptime": "60.35%",
+    "uptime": "60.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "66.96%",
@@ -256,7 +256,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.12%",
+    "uptimeYear": "92.14%",
     "time": 267,
     "timeDay": 232,
     "timeWeek": 240,
@@ -312,8 +312,7 @@
       "2024-12-20": 501,
       "2024-12-18": 32,
       "2024-12-11": 508,
-      "2024-12-10": 182,
-      "2024-11-15": 225
+      "2024-12-10": 182
     }
   },
   {
@@ -321,18 +320,19 @@
     "url": "hdh08hzryd0.sn.mynetname.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-backup-internet-g",
-    "status": "up",
-    "uptime": "93.91%",
-    "uptimeDay": "47.17%",
+    "status": "down",
+    "uptime": "94.04%",
+    "uptimeDay": "48.96%",
     "uptimeWeek": "67.07%",
-    "uptimeMonth": "27.52%",
-    "uptimeYear": "91.70%",
+    "uptimeMonth": "27.71%",
+    "uptimeYear": "91.88%",
     "time": 447,
     "timeDay": 242,
     "timeWeek": 236,
     "timeMonth": 240,
     "timeYear": 257,
     "dailyMinutesDown": {
+      "2025-11-15": 0,
       "2025-11-14": 764,
       "2025-11-13": 767,
       "2025-11-12": 504,
@@ -370,8 +370,7 @@
       "2025-10-10": 1440,
       "2025-10-09": 1393,
       "2025-10-08": 1384,
-      "2025-10-07": 1372,
-      "2025-10-06": 542
+      "2025-10-07": 951
     }
   },
   {
@@ -421,7 +420,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.33%",
+    "uptimeYear": "78.34%",
     "time": 257,
     "timeDay": 247,
     "timeWeek": 251,
@@ -527,8 +526,7 @@
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
-      "2024-11-16": 1440,
-      "2024-11-15": 1440
+      "2024-11-16": 1440
     }
   },
   {
