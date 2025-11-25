@@ -1,7 +1,7 @@
 url: https://smart.com.ph
-status: up
-code: 200
-responseTime: 594
-lastUpdated: 2025-11-24T23:19:32.344Z
+status: down
+code: 502
+responseTime: 8260
+lastUpdated: 2025-11-25T08:55:59.861Z
 startTime: 2024-05-04T14:38:47.897Z
 generator: Upptime <https://github.com/upptime/upptime>
