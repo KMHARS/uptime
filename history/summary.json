@@ -5,9 +5,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-fiber-line",
     "status": "up",
-    "uptime": "61.88%",
+    "uptime": "61.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.19%",
+    "uptimeWeek": "60.61%",
     "uptimeMonth": "78.35%",
     "uptimeYear": "44.72%",
     "time": 284,
@@ -263,7 +263,7 @@
     "uptimeDay": "89.54%",
     "uptimeWeek": "98.51%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "92.37%",
+    "uptimeYear": "92.39%",
     "time": 254,
     "timeDay": 253,
     "timeWeek": 239,
@@ -316,8 +316,7 @@
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
-      "2024-12-22": 1440,
-      "2024-12-21": 1440
+      "2024-12-22": 1440
     }
   },
   {
@@ -407,7 +406,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.19%",
+    "uptimeYear": "88.22%",
     "time": 256,
     "timeDay": 256,
     "timeWeek": 252,
@@ -477,8 +476,7 @@
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
-      "2024-12-22": 1440,
-      "2024-12-21": 1440
+      "2024-12-22": 1440
     }
   },
   {
@@ -487,18 +485,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kmhars.com.ico",
     "slug": "kmhars-website",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.46%",
+    "uptimeDay": "86.68%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "97.23%",
+    "uptimeYear": "99.43%",
     "time": 1875,
     "timeDay": 1214,
     "timeWeek": 1443,
     "timeMonth": 1482,
     "timeYear": 1639,
     "dailyMinutesDown": {
-      "2025-12-20": 48,
+      "2025-12-21": 143,
+      "2025-12-20": 49,
       "2025-12-18": 19,
       "2025-12-15": 27,
       "2025-12-14": 19,
@@ -623,8 +622,7 @@
       "2025-01-20": 157,
       "2025-01-09": 224,
       "2025-01-08": 89,
-      "2024-12-23": 23,
-      "2024-12-21": 17
+      "2024-12-23": 23
     }
   },
   {
