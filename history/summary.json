@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kmhars-main-fiber-line",
     "status": "up",
-    "uptime": "62.19%",
+    "uptime": "62.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "67.15%",
@@ -245,8 +245,7 @@
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
-      "2025-01-08": 1440,
-      "2025-01-07": 874
+      "2025-01-08": 1440
     }
   },
   {
@@ -259,7 +258,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "97.02%",
+    "uptimeYear": "97.05%",
     "time": 251,
     "timeDay": 248,
     "timeWeek": 238,
@@ -295,8 +294,7 @@
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
-      "2025-01-08": 1440,
-      "2025-01-07": 1440
+      "2025-01-08": 1440
     }
   },
   {
@@ -386,7 +384,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.84%",
+    "uptimeYear": "92.87%",
     "time": 255,
     "timeDay": 257,
     "timeWeek": 252,
@@ -439,8 +437,7 @@
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
-      "2025-01-08": 1440,
-      "2025-01-07": 1440
+      "2025-01-08": 1440
     }
   },
   {
@@ -457,7 +454,7 @@
     "time": 1771,
     "timeDay": 1113,
     "timeWeek": 1462,
-    "timeMonth": 1489,
+    "timeMonth": 1490,
     "timeYear": 1621,
     "dailyMinutesDown": {
       "2026-01-06": 26,
@@ -625,7 +622,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pldthome.com.ico",
     "slug": "pldt",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
