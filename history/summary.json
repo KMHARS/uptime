@@ -8,8 +8,8 @@
     "uptime": "64.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.11%",
-    "uptimeYear": "52.36%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "52.39%",
     "time": 284,
     "timeDay": 256,
     "timeWeek": 243,
@@ -222,8 +222,7 @@
       "2025-03-01": 351,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
-      "2025-02-26": 1440,
-      "2025-02-25": 1440
+      "2025-02-26": 1440
     }
   },
   {
@@ -383,8 +382,7 @@
       "2025-03-09": 18,
       "2025-03-06": 266,
       "2025-03-05": 1321,
-      "2025-02-27": 123,
-      "2025-02-25": 179
+      "2025-02-27": 123
     }
   },
   {
@@ -392,19 +390,20 @@
     "url": "https://kmhars.com",
     "icon": "https://icons.duckduckgo.com/ip3/kmhars.com.ico",
     "slug": "kmhars-website",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "96.56%",
-    "uptimeMonth": "93.27%",
-    "uptimeYear": "99.01%",
-    "time": 1590,
-    "timeDay": 1363,
-    "timeWeek": 1365,
-    "timeMonth": 1383,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "87.34%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "92.91%",
+    "uptimeYear": "98.98%",
+    "time": 1589,
+    "timeDay": 1389,
+    "timeWeek": 1370,
+    "timeMonth": 1384,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2026-02-24": 28,
+      "2026-02-25": 150,
+      "2026-02-24": 33,
       "2026-02-22": 137,
       "2026-02-21": 95,
       "2026-02-20": 41,
